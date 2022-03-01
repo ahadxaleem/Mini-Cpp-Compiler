@@ -1,0 +1,21 @@
+void main(){
+int a;
+a = 60 + 9;
+int b=4;
+iF(a>10)
+{
+cout<<"this is correct"<<endl;
+}
+else if(b<3)
+{
+cout<<"this is correct"<<endl;
+}
+/*else
+{
+cout<<"this is correct"<<endl;
+}*/
+}
+class user{
+int y;
+y=5;
+};
